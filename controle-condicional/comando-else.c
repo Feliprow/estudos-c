@@ -23,6 +23,7 @@ int main () {
     else {
         printf ("O número NÃO é igual a 10\n");
     }
+    // Else é a condição final, se nenhuma das anteriores for verdadeira, executa o else. *ELSE NÃO TEM CONDIÇÃO*
 
     return 0;
 }
