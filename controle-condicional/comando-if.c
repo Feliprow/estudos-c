@@ -19,12 +19,5 @@ int main () {
         printf("O número é maior que 10.\n");
     // quando o if tem mais de uma linha de código, é necessário usar chaves {}
 
-
-    /*
-        
-    
-    */
-
-    
-    return 0;
+   return 0;
 }
