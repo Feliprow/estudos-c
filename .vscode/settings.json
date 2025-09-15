@@ -1,0 +1,4 @@
+{
+    "github.copilot.chat.codeGeneration.useInstructionFiles": false,
+    "github.copilot.chat.languageContext.inline.typescript.enabled": false
+}
